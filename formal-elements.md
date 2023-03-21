@@ -2,7 +2,7 @@
 
 # כותרת ראשית: שם המשחק
 
-**tagline: מטרת המשחק היא לבחור את הפוזיציה הנכונה שהדמות צריכה לבצע על מנת לעבור דרך הקיר שמתקרב.**
+**מטרת המשחק היא לבחור את הפוזיציה הנכונה שהדמות צריכה לבצע על מנת לעבור דרך הקיר שמתקרב.**
 
 ## מהות המשחק
 
@@ -66,17 +66,14 @@
 
 ## סקר שוק
 
+ קישור למשחק ראשון: https://play.google.com/store/apps/details?id=com.kamivv.fitthewall&hl=en&gl=US
  ![image](https://user-images.githubusercontent.com/74373665/226648790-62e4ab84-b2d5-4120-a706-627a0df81fa5.png)
- 
- https://play.google.com/store/apps/details?id=com.kamivv.fitthewall&hl=en&gl=US
 
+ קישור למשחק שני: https://play.google.com/store/apps/details?id=com.games.breakthewall&hl=en&gl=US
  ![image](https://user-images.githubusercontent.com/74373665/226648855-546a7755-5318-473f-89b5-ea40e74ec20b.png)
- 
- https://play.google.com/store/apps/details?id=com.games.breakthewall&hl=en&gl=US
- 
+
+ קישור למשחק שלישי: https://play.google.com/store/apps/details?id=com.ubisoft.dance.JustDance&hl=en&gl=US
  ![image](https://user-images.githubusercontent.com/74373665/226649030-309c2039-6861-4ab5-9779-ab3e9bbb7fce.png)
- 
- https://play.google.com/store/apps/details?id=com.ubisoft.dance.JustDance&hl=en&gl=US
 
 מילות המפתח שחיפשנו הם: break, wall, fit, dance.
 
