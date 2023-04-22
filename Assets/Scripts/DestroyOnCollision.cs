@@ -1,16 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DestroyOnCollision : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] string triggerTag;
-    private void OnTriggerEnter(Collider other)
-    {
-        if (this.gameObject.activeSelf && triggerTag == other.tag)
+    private void OnCollisionEnter(Collision other) {
+        if (gameObject.activeSelf && triggerTag == other.collider.tag)
         {
-            Destroy(gameObject);
+            SceneManager.LoadScene("level-1");
 
         }
     }
