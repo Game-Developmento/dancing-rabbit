@@ -21,5 +21,5 @@ Controls the player's movement.
 Adds force to the player to move forward.
 ### FollowPlayer
 Makes the camera follow the player.
-###  ResetOnCollision
+### ResetOnCollision
 Resets the game when the player loses by hitting the wall.
