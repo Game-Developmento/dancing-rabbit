@@ -4,7 +4,7 @@
 
 [קישור לדף הרכיבים](https://github.com/Game-Developmento/dancing-rabbit/blob/main/formal-elements.md)
 
-Welcome to our game! Although it is not exactly like the original game idea, we have created something similar.  
+Welcome to our game! Although it is not exactly like the original game idea, we have created something similar.   
 [Click here to play the game!](https://orihoward.itch.io/fit-the-wall)
 
 ## Game Description
@@ -14,7 +14,6 @@ You are the player standing on a platform and moving towards the walls. Each wal
 Use the right and left arrow keys to move the player and try to fit into the holes in the wall.
 
 ## Scripts
-
 ### InputMover
 Controls the player's movement.
 ### ForceAdder
