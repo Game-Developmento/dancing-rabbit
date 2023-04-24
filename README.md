@@ -4,7 +4,7 @@
 
 [קישור לדף הרכיבים](https://github.com/Game-Developmento/dancing-rabbit/blob/main/formal-elements.md)
 
-Welcome to our game! Although it is not exactly like the original game idea, we have created something similar.
+Welcome to our game! Although it is not exactly like the original game idea, we have created something similar.  
 [Click here to play the game!](https://itch.io/)
 
 ## Game Description
