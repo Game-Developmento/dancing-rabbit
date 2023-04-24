@@ -4,9 +4,8 @@
 
 [קישור לדף הרכיבים](https://github.com/Game-Developmento/dancing-rabbit/blob/main/formal-elements.md)
 
-Welcome to our game! Although it is not exactly like the original game idea, we have created something similar.   
+Welcome to our game! Although it is not exactly like the original game idea, we have created something similar.
 [Click here to play the game!](https://orihoward.itch.io/fit-the-wall)
-
 ## Game Description
 You are the player standing on a platform and moving towards the walls. Each wall has a hole that you must go through to keep going. If you touch the wall, you lose. The goal is to get to the other side without touching any walls. In the original game, the player needs to be in a special pose to get through the wall. So the idea of our game is similar to that.
 
